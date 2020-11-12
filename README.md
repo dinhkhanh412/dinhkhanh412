@@ -14,7 +14,7 @@
 - 📫 You can reach me at **dinhkhanh412@gmail.com**
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.sytungan.vercel.app/api/spotify)](https://open.spotify.com/user/zuxealvtzwrscxj5fnir9x3er)
+[![Spotify](https://novatorem.dinhkhanh412.vercel.app/api/spotify)](https://open.spotify.com/user/zuxealvtzwrscxj5fnir9x3er)
 
 
 
